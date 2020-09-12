@@ -69,6 +69,7 @@
     width: 28.4em;
     background-color: #2F80ED;
 }
+/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .description {
     margin-top: 100px;
     margin-bottom: 100px;
@@ -254,7 +255,7 @@
 .kaufman__triangle {
     width: 36.5em;
     height: 36.5em;
-    background-image: url(../images/triangle.svg);
+    background-image: url(../images/kaufman-triangle.svg);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
