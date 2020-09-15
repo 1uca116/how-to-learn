@@ -144,7 +144,7 @@
 /*зачем удалять высоту в 790пикселей как Вы просите? в брифе же так написано*/
 .feynman {
     position: relative;
-    height: 790px;
+    min-height: 790px;
     background-color: #F2F2F2;
     overflow: hidden;
     padding-top: 100px;
