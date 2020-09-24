@@ -3,7 +3,7 @@
 @import url('./__title/cards__title.css');
 .cards {
     margin-left:auto;
-    margin-right:auto; 
+    margin-right:auto;
     width: 80%;
     margin-top:60px;
     display:grid;
