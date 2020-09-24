@@ -17,6 +17,14 @@
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 /*если как Вы советуете, убрать overflow, то квадрат будет вылезать за пределы блока*/
+.link {
+    text-decoration: none;
+    transition: opacity 1s ease-in-out;
+}
+.link:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
 .header {
     position: relative;
     display: flex;
@@ -216,7 +224,6 @@
     margin: 0;
     line-height: 1.15;
 }
-
 .section-title_theme_dark {
     color: #fff;
 }
@@ -246,8 +253,7 @@
 }
 .table__text_theme_dark {
     color: #fff;
-    
-  }
+}
 .kaufman__triangle {
     width:877px;
     height:877px;
@@ -427,7 +433,6 @@
 }
 .footer__column_content_social {
     display: block;
-
 }
 .logo_place_footer {
     height: 35px;
