@@ -16,7 +16,7 @@
 * Адаптировать сайт для просмотра на разных устройствах
 
 ## Ссылка на сайт:
-https://github.com/1uca116/how-to-learn
+https://1uca116.github.io/how-to-learn/
 ---
 
 # How to learn. The second project for Yandex.Praktikum
